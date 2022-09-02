@@ -1,0 +1,95 @@
+.bugsy-action-button {
+    border-radius: 5px;
+    background-color: #36bfec;
+    border: 2px solid #36bfec
+}
+
+.bugsy-action-button:hover {
+    background-color: #2d9fc6;
+    border: 2px solid #36bfec
+}
+
+.bugsy-action-button:focus {
+    background-color: #2482a2;
+    border: 2px solid #36bfec
+}
+
+.bugsy-approve-button {
+    color: white;
+    border-radius: 5px;
+    background-color: #09b32f;
+    border: 2px solid #09b32f
+}
+
+.bugsy-approve-button:hover {
+    color: white;
+    background-color: #088b24;
+    border: 2px solid #09b32f
+}
+
+.bugsy-approve-button:focus {
+    color: white;
+    background-color: #0d962b;
+    border: 2px solid #09b32f
+}
+
+.bugsy-reject-button {
+    color: white;
+    border-radius: 5px;
+    background-color: #eb3e1e;
+    border: 2px solid #eb3e1e
+}
+
+.bugsy-reject-button:hover {
+    color: white;
+    background-color: #eb3e1e;
+    border: 2px solid #eb3e1e
+}
+
+.bugsy-reject-button:focus {
+    color: white;
+    background-color: #eb3e1e;
+    border: 2px solid #eb3e1e
+}
+
+.bugsy-delete-button {
+    color: white;
+    border-radius: 5px;
+    background-color: #333333;
+    border: 2px solid #333333
+}
+
+.bugsy-delete-button:hover {
+    color: white;
+    background-color: #333333;
+    border: 2px solid #333333
+}
+
+.bugsy-delete-button:focus {
+    color: white;
+    background-color: #333333;
+    border: 2px solid #333333
+}
+
+
+.bugsy-approve-button svg {
+    fill: white !important;
+}
+
+.bugsy-reject-button svg {
+    fill: white !important;
+}
+
+.bugsy-delete-button  svg {
+    fill: white !important;
+}
+
+.prime-react-input-field input {
+    border: 0 !important;
+    border-bottom: 0.25px solid #646464 !important;
+    border-radius: 0 !important;
+}
+
+.prime-react-input-field input:focus {
+    outline: none !important;
+}

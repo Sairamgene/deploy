@@ -1,0 +1,18 @@
+.side-nav {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 0px;
+    width: 14%;
+    height: 100%;
+    top: 170px;
+    background-color:transparent;
+    text-align: center;
+}
+
+.details-profile-image {
+    height: 100px;
+    align-self: center;
+    margin-top: 60px;
+    border-radius: 50%;
+}

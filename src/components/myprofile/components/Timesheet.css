@@ -1,0 +1,7 @@
+.timesheet-profile .fc-toolbar-chunk {
+    display: flex !important;
+}
+.fc-event-time,
+.fc-daygrid-event-dot{
+    display : none;
+ }

@@ -1,0 +1,32 @@
+.nav-cmp-employee-projects {
+    display: flex;
+}
+
+.spectrum-Tabs .spectrum-Tabs--horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.employee-projects-prime-react-input {
+    border: 0 !important;
+    border-bottom: 0.25px solid #646464 !important;
+    border-radius: 0 !important;
+}
+
+.prime-react-input-field:focus {
+    outline: none !important;
+}
+
+.employee-project-input-line {
+    margin-bottom: 10px;
+}
+
+.employee-project-labels {
+    width: 200px !important;
+    font-size: 12px;
+}
+
+.employee-project-input-number {
+    font-size: 12px;
+    align-self: center;
+}

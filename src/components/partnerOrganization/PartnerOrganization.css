@@ -1,0 +1,59 @@
+
+.data-table {
+    width: 100%;
+}
+
+.data-table table {
+    width: 100% !important;
+}
+
+.p-datatable .p-datatable-header {
+    background: transparent !important;
+    color: #212529;
+    border: none !important;
+    border-width: 1px 0 0 0;
+    padding: 1rem 1rem;
+    font-weight: 600;
+}
+
+.data-table .p-datatable-tbody td{
+    text-align: center;
+}
+
+.p-column-title {
+    color: var(--spectrum-alias-label-text-color) !important;
+    font-size: 0.9em;
+}
+
+.table-header {
+    background: transparent;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    text-align: left;
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    border-width: 1px 0 0 0;
+    padding: 1rem 1rem;
+}
+
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+    background: #36bfec !important;
+    border-color: #36bfec !important;
+    color: #ffffff;
+}
+
+.p-paginator .p-paginator-current {
+    background-color: none !important;
+    border: none !important;
+    color: var(--spectrum-alias-label-text-color) !important;
+    min-width: 2.357rem;
+    height: 2.357rem;
+    margin: 0 0 0 -1px;
+    padding: 0 0.5rem;
+}
+
+.p-datatable.p-datatable-hoverable-rows .p-datatable-tbody > tr:not(.p-highlight):hover {
+    background: #36beec66 !important;
+    color: #212529;
+}

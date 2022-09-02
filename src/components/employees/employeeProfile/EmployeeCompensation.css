@@ -1,0 +1,17 @@
+.details-picker span {
+    width: 200px
+}
+.details-picker button {
+    width: 100% !important;
+}
+
+.compensation-labels {
+    width: 200px !important;
+    font-size: 12px;
+    align-self: center;
+}
+
+.compensation-input-number {
+    width: 60%;
+}
+

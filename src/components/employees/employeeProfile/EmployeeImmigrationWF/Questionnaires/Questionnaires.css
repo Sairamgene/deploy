@@ -1,0 +1,29 @@
+.p-tabview .p-tabview-panels {
+    padding: 0 !important;
+}
+
+.p-tabview .p-tabview-panels {
+    padding: 0 !important;
+    padding-top: 1rem !important;
+}
+
+.textfield-questionnaire {
+    display: flex;
+    justify-content: space-between;
+}
+
+.textfield-questionnaire label {
+    width: 30%
+}
+
+.textfield-questionnaire-long label {
+    width: 300px !important;
+}
+
+.dropdown-questionnaire span {
+    width: 30% !important;
+}
+
+.dropdown-questionnaire button {
+    width: 100% !important;
+}

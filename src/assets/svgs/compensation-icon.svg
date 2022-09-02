@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.79" height="28.26" viewBox="0 0 33.79 28.26">
+  <g id="Group_72671" data-name="Group 72671" transform="translate(37.157 -3.24)">
+    <path id="Path_80" data-name="Path 80" d="M-13.81,13.48v4.55l7.05-4.55Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_81" data-name="Path 81" d="M-26.5,18.16V13.48h-7.26Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_82" data-name="Path 82" d="M-13.81,13.48v4.55l7.05-4.55Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_83" data-name="Path 83" d="M-26.5,18.16V13.48h-7.26Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_84" data-name="Path 84" d="M-13.81,4.24V18.03l-6.45,4.16-6.24-4.03V4.24Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_85" data-name="Path 85" d="M-5.48,13.48V28.142A2.358,2.358,0,0,1-7.838,30.5H-32.472a2.358,2.358,0,0,1-2.358-2.358V13.48h.376a2.359,2.359,0,0,1,1.277.376l6.677,4.3,4.962,3.2a2.357,2.357,0,0,0,2.557,0l5.171-3.335,6.466-4.173a2.358,2.358,0,0,1,1.279-.377Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_72632" data-name="Group 72632">
+      <path id="Path_86" data-name="Path 86" d="M-20.79,16.544V15.4a4.814,4.814,0,0,1-2.04-.515l.36-1.4a4.236,4.236,0,0,0,1.991.528c.684,0,1.151-.263,1.151-.743,0-.456-.383-.744-1.271-1.044-1.283-.432-2.159-1.031-2.159-2.195A2.216,2.216,0,0,1-20.731,7.9V6.757h1.176V7.813a4.319,4.319,0,0,1,1.739.4l-.348,1.355a3.978,3.978,0,0,0-1.727-.408c-.78,0-1.032.336-1.032.672,0,.4.42.647,1.44,1.031,1.427.5,2,1.163,2,2.243a2.3,2.3,0,0,1-2.135,2.219v1.223Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

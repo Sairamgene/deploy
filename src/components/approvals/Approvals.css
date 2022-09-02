@@ -1,0 +1,17 @@
+.APPROVED-bg-color {
+    background-color: #09b32f;
+    color: white;
+    text-align: center;
+}
+
+.REJECTED-bg-color {
+    background-color: #eb3e1e;
+    color: white;
+    text-align: center;
+}
+
+.SUBMITTED-bg-color {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+}
